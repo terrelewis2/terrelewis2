@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @terrelewis2
-- 👀 I’m interested in building products
-- 🌱 I’m currently learning Kotin and Flutter
+- 👋 Hi, I’m Terrel
+- 👀 I’m interested in building consumer facing products
 - 📫 How to reach me: terrellewis2594@gmail.com
 
 <!---
